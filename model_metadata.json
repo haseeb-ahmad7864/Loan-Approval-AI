@@ -1,0 +1,22 @@
+{
+    "model_name": "Logistic Regression",
+    "accuracy": 0.8617886178861789,
+    "roc_auc": 0.8523219814241486,
+    "features": [
+        "Gender",
+        "Married",
+        "Dependents",
+        "Education",
+        "Self_Employed",
+        "ApplicantIncome",
+        "CoapplicantIncome",
+        "LoanAmount",
+        "Loan_Amount_Term",
+        "Credit_History",
+        "Property_Area"
+    ],
+    "target_classes": {
+        "0": "Rejected",
+        "1": "Approved"
+    }
+}
